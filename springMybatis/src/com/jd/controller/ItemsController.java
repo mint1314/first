@@ -25,6 +25,7 @@ public class ItemsController {
 	@Autowired
 	private ItemsService itemsService;
 	private String ww;
+
 	
 	/**
 	 * @RequestMapping注解是将具体的URL和我们的对应的方法建立了一个从URL到方法的映射
