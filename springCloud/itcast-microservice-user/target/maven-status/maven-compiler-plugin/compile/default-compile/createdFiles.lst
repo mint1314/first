@@ -1,0 +1,6 @@
+com\itheima\microservice\user\controll\UserController.class
+com\itheima\microservice\user\util\SpringContextUtils.class
+com\itheima\microservice\user\pojo\User.class
+com\itheima\microservice\user\mapper\UserMapper.class
+com\itheima\microservice\user\service\UserService.class
+com\itheima\microservice\user\mail\UserApplication.class
